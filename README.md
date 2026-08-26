@@ -1,0 +1,2 @@
+# Analisis-Deret-Waktu
+STA2542 ANALISIS DERET WAKTU (PRAKTIKUM)
